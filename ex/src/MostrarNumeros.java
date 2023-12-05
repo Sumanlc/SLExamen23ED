@@ -36,4 +36,24 @@ public class MostrarNumeros {
 
     }
 
+
+    public static double sumar(double a, double b) {
+
+        return a + b;
+
+    }
+    public static double multiplicar(double a, double b) {
+
+        return a * b;
+
+    }
+
+    public static double potencia(double base, double exponente) {
+
+        java.lang.Object Math;
+        return Math.pow(base, exponente);
+
+    }
+
+
 }
